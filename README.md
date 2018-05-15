@@ -1,1 +1,1 @@
-# learning-git-2
+https://ryczard.github.io/learning-git-2/
